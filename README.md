@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Activity Snake](https://raw.githubusercontent.com/OCram85/OCram85/output/github-contribution-grid-snake.svg)
 
 <!--
 **vedulix/vedulix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
